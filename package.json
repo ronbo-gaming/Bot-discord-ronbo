@@ -1,0 +1,18 @@
+{
+  "name": "bot-discord-ronbo",
+  "version": "1.0.0",
+  "description": "Discord bot for Ronbo Gaming",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.3"
+    // Add other dependencies as needed
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
